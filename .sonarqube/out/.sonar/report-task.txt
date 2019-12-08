@@ -1,0 +1,7 @@
+organization=lohitha-srinija
+projectKey=space-game-web-sri
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.3300
+dashboardUrl=https://sonarcloud.io/dashboard?id=space-game-web-sri
+ceTaskId=AW7hdnECzxYzeoiXWv1P
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW7hdnECzxYzeoiXWv1P

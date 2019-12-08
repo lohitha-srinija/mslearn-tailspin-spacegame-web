@@ -1,0 +1,25 @@
+
+=TailSpin.SpaceGame.Web.Program.CreateWebHostBuilder(string[])l
+bE:\Azure DevOps Training\Projects\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Program.cs& (:"0*∂
+0ò
+ï
+l
+bE:\Azure DevOps Training\Projects\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Program.cs (.2
+%0,Microsoft.AspNetCore.Hosting.IWebHostBuilder";Microsoft.AspNetCore.WebHost.CreateDefaultBuilder(string[])* "
+Microsoft.AspNetCore.WebHost*
+
+argsstring[]ê
+ç
+l
+bE:\Azure DevOps Training\Projects\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Program.cs (&2
+%1,Microsoft.AspNetCore.Hosting.IWebHostBuilder"xMicrosoft.AspNetCore.Hosting.WebHostBuilderExtensions.UseStartup<TStartup>(Microsoft.AspNetCore.Hosting.IWebHostBuilder)*9"7
+5Microsoft.AspNetCore.Hosting.WebHostBuilderExtensions*4
+2
+%0,Microsoft.AspNetCore.Hosting.IWebHostBuilder*
+1*â
+1"É
+l
+bE:\Azure DevOps Training\Projects\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Program.cs& ('
+implicit return:
+argsstring[]B"" 
+TailSpin.SpaceGame.Web.Program
